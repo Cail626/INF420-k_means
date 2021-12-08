@@ -1,1 +1,0 @@
-# INF420-k_means
